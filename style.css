@@ -17,6 +17,7 @@
 }
 
 .image{
+	width: 200px;
 
 }
 
@@ -34,4 +35,15 @@
 .rect1{
 	/*stroke:#2D0DA3;*/
 	fill:#FFCC99;
+}
+
+.button{
+	width:150px;
+	height: 50px;
+	border-radius: 20px;
+	background-color: blue;
+}
+
+.cat_and_button{
+	text-align: center;
 }
