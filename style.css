@@ -17,7 +17,7 @@
 }
 
 .image{
-	width: 200px;
+	height: 200px;
 
 }
 
@@ -37,7 +37,7 @@
 	fill:#FFCC99;
 }
 
-.button{
+.feed_me_button{
 	width:150px;
 	height: 50px;
 	border-radius: 20px;
@@ -45,5 +45,5 @@
 }
 
 .cat_and_button{
-	text-align: center;
+	/*text-align: center;*/
 }
